@@ -2,7 +2,7 @@
 
 # **Unsupervised Alignment Of Embeddings ViaWasserstein Procrustes**
 
-## written by: $\underline{Edouard Grave, Armand Joulin and Quentin Berthet}$
+## written by: Edouard Grave, Armand Joulin and Quentin Berthet
 
 
 #### The dataset used is:

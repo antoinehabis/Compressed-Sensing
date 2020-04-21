@@ -1,6 +1,7 @@
-# The code is an implementation of the Algorithm 1 from thee paper: **Point Registration**
+# The code is an implementation of the Algorithm 1 from the paper:
+# **Point Registration**
 
-## written by Edouard Grave, Armand Joulin and Quentin Berthet
+## written by: $\underline{Edouard Grave, Armand Joulin and Quentin Berthet}$
 
 
 #### The dataset used is:

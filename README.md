@@ -8,7 +8,7 @@ by Haggai Maron Nadav Dym Itay Kezurer Shahar Kovalsky Yaron Lipman
 ##### - Unsupervised Alignment of Embeddings with Wasserstein Procrustes
 by Edouard Grave, Armand Joulin, Quentin Berthet
 
-# Code
+# Code:
 ### The code is an implementation of the Algorithm 1 from the paper:
 #### **Unsupervised Alignment Of Embeddings ViaWasserstein Procrustes**
 ##### written by: Edouard Grave, Armand Joulin and Quentin Berthet
